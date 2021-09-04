@@ -3,7 +3,7 @@ This is meant as a place to produce the documentation needed to onboard new and 
 
 Items include:
 - Handbook updates
-- (Contributing roadmap in marketing)[https://github.com/wpmarketingteam/Marcomms-Onboarding/issues/1#issue-978432140]
+- Contributing roadmap in marketing https://github.com/wpmarketingteam/Marcomms-Onboarding/issues/1#issue-978432140
 - Input/ cross-working with Contributor Working Groups
 - Contributor Training
 - Major WordCamp contributor events
