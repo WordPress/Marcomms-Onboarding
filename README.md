@@ -4,7 +4,7 @@ This is meant as a place to produce the documentation needed to onboard new and 
 Items include:
 - Handbook updates https://github.com/wpmarketingteam/Marcomms-Onboarding/issues/2#issue-978435525
 - Contributing roadmap in marketing https://github.com/wpmarketingteam/Marcomms-Onboarding/issues/1#issue-978432140
-- Input/ cross-working with Contributor Working Groups
+- Input/ cross-working with Contributor Working Groups - Community's working group is on a break for the summer 2021
 - Contributor Training
 - Major WordCamp contributor events
 - Input into WordPress GitHub Contributor Day Handbook
